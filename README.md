@@ -25,7 +25,7 @@ The Laravel Reverb Jetstream
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/AqibUllah/laravel-11-jetstream-reverb.git
    cd repository
 
 2. **Install Dependencies**
