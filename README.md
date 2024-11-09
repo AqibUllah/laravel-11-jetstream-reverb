@@ -1,18 +1,18 @@
 # Laravel 11 Jetstream Reverb
 
-### 1. Home Chat
+### 1. Home
 ![Laravel Chat App](public/images/1.png)
 
-### 2. Home Chat Mobile
+### 2. Signup
 ![Laravel Chat App](public/images/2.png)
 
 ### 3. Chat Desktop
 ![Laravel Chat App](public/images/3.png)
 
-### 4. Chat Desktop
+### 4. Profile
 ![Laravel Chat App](public/images/4.png)
 
-### 5. Chat Desktop
+### 5. Team Settings
 ![Laravel Chat App](public/images/5.png)
 
 
