@@ -1,4 +1,4 @@
-# Laravel Chat Application
+# Laravel 11 Jetstream Reverb
 
 ### 1. Home Chat
 ![Laravel Chat App](public/images/1.png)
